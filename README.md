@@ -1,4 +1,6 @@
 # COMP-9170-Research-Method-Project
+Fake News Detection and Media Trustworthiness: A Comparative Study of Explainable Machine Learning Models and Credibility Scoring
+
 ### Introduction
 With the rise of social media and online news articles platforms, fake news has become a prevalent problem. Although manually checking every article is impractical, machine learning may help uncover patterns to separate true and false claims. In this project, we’ll compare Multinomial Naive Bayes and Logistic Regression for fake news detection, analyse which words influence their predictions, and assess if calibrated probabilities can act as a trustworthy indicator of an article’s veracity.
 
